@@ -1,12 +1,12 @@
 n1 = 2
 n2 = 4
 n3 = 2
-#listed in order of highest to lowest precedence
-print(n1 ** n2) #power right to left assocition
-#all below have left ro right association
+#listed below in order of highest to lowest precedence
+print(n1 ** n2) #power right to left association
+#all below have left to right association
 print(n1 * n2) #multiply 
 print(n1 / n2 ) #divides and give float ans
-print(n1 // n2) # division asnwer as int
+print(n1 // n2) # division answer as int
 print(n1 % n2) #remainder
 print(n1 + n2) #add
 print(n1 - n2) #subtract
