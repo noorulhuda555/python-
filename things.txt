@@ -1,0 +1,9 @@
+pen
+paper
+sword
+y
+x
+g
+/bin/python3 /home/noor/python/files.py
+/bin/python3 /home/noor/python/files.py
+t
